@@ -1,9 +1,10 @@
 ---
-name: 'General development ticket'
+name: General development ticket
 about: Package updates, tech debt payment, etc...
 title: ''
-labels: chore, triage
+labels: ''
 assignees: ''
+
 ---
 
 ## Ticket creation checklist

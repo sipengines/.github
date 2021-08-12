@@ -2,8 +2,9 @@
 name: Feature request
 about: New feature work
 title: ''
-labels: feature, triage
+labels: ''
 assignees: ''
+
 ---
 
 ## Ticket creation checklist

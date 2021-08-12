@@ -2,8 +2,9 @@
 name: Bug report
 about: Saw something, say something!
 title: ''
-labels: bug, triage
+labels: bug
 assignees: ''
+
 ---
 
 ## Ticket creation checklist

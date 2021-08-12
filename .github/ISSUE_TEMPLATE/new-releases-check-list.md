@@ -1,9 +1,10 @@
 ---
-name: 'New releases check-list'
+name: New releases check-list
 about: Checklist for the Release Captain who is responsible for the next release
 title: 'Release: x.x.x • MM/DD/YYYY'
-labels: release
+labels: ''
 assignees: ''
+
 ---
 
 <!--- Please add the release version number and release date (not today's date in the title above and fill in details below) -->
