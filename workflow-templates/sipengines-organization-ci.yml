@@ -1,0 +1,16 @@
+name: SIPEngines Organization CI
+
+on:
+  push:
+    branches: [ $default-branch ]
+  pull_request: 
+    branches: [ $default-branch ]
+
+jobs:
+  build:
+    runs-on: centos
+    
+    steps:
+      - uses: actions/checkout@v2
+      - name: Run a one-line script
+      run: echo Hello from SIPEngines
